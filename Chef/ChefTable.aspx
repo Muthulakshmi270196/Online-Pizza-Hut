@@ -20,18 +20,13 @@
             align-content:center;
              color:white;
         }
-       .auto-style3 {
-           width: 232px;
-       }
-       .auto-style4 {
-           width: 192px;
-       }
-       
+              
     </style>
     <title></title>
 </head>
 <body background="Bg.jpg">
     <form id="form1" runat="server" >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:ScriptManager EnablePartialRendering="true"
  ID="ScriptManager1" runat="server"></asp:ScriptManager>
  <div>
