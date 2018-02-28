@@ -1,0 +1,3 @@
+[submodule "Pizza"]
+	path = Pizza
+	url = https://github.com/Muthulakshmi270196/Online-Pizza-Hutt/Pizza.git
